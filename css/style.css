@@ -16,8 +16,8 @@ body{
     font-size: 3.4rem;
     font-weight: 900;
 }
-.greetings > span:nth-child(25) {
-    animation: glow-red 2.5s ease-in-out infinite;
+.greetings > span:nth-child(27) {
+    animation: glow-red 2.6s ease-in-out infinite;
 }
 
 @keyframes glow-red {
@@ -32,7 +32,7 @@ body{
 }
 
 .greetings > span{
-    animation: glow 2.5s ease-in-out infinite;
+    animation: glow 3s ease-in-out infinite;
 }
 @keyframes glow{
     0%, 100%{
@@ -83,29 +83,38 @@ body{
 .greetings > span:nth-child(15){
     animation-delay: 1.3s;
 }
-.greetings > span:nth-child(17){
+.greetings > span:nth-child(16){
     animation-delay: 1.4s;
 }
-.greetings > span:nth-child(18){
+.greetings > span:nth-child(17){
     animation-delay: 1.5s;
 }
-.greetings > span:nth-child(20){
+.greetings > span:nth-child(18){
     animation-delay: 1.6s;
 }
-.greetings > span:nth-child(21){
+.greetings > span:nth-child(19){
     animation-delay: 1.7s;
 }
-.greetings > span:nth-child(22){
+.greetings > span:nth-child(20){
     animation-delay: 1.8s;
 }
-.greetings > span:nth-child(23){
+.greetings > span:nth-child(21){
     animation-delay: 1.9s;
 }
-.greetings > span:nth-child(24){
+.greetings > span:nth-child(22){
     animation-delay: 2s;
 }
-.greetings > span:nth-child(25){
+.greetings > span:nth-child(23){
     animation-delay: 2.1s;
+}
+.greetings > span:nth-child(24){
+    animation-delay: 2.2s;
+}
+.greetings > span:nth-child(25){
+    animation-delay: 2.3s;
+}
+.greetings > span:nth-child(26){
+    animation-delay: 2.4s;
 }
 .description{
     margin-top: 1.2em;
